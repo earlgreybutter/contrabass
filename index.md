@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta name="Author" content="">
+	<meta name="Keywords" content="contrabass 콘트라베이스 더블베이스 한국아마추어콘트라베이스협회">
+	<meta name="Description" content="이 페이지는 한국아마추어콘트라베이스협회 홈페이지입니다. ">
 <title>AmaCB</title>
 
 <link rel=" shortcut icon" href="./image/clef.ico">
 <link rel="icon" href="./image/clef.ico">
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link rel="stylesheet" href="styler01.css">
 <link rel="stylesheet" href="fontstyle.css">
 <style>
