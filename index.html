@@ -1,9 +1,34 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta name="Author" content="">
+	<meta name="Keywords" content="contrabass 콘트라베이스 더블베이스 한국아마추어콘트라베이스협회">
+	<meta name="Description" content="이 페이지는 한국아마추어콘트라베이스협회 홈페이지입니다. ">
 <title>AmaCB</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="apple-touch-icon" sizes="57x57" href="./fabi/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="./fabi/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="./fabi/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="./fabi/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="./fabi/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="./fabi/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="./fabi/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="./fabi/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="./fabi/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="./fabi/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="./fabi/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="./fabi/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="./fabi/favicon-16x16.png">
+<link rel="manifest" href="./fabi/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="./fabi/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
 <link rel="stylesheet" href="styler01.css">
 <link rel="stylesheet" href="fontstyle.css">
 <style>
@@ -85,13 +110,15 @@ body, html {
   
     <div class="w3-row w3-center w3-card w3-padding">
       <a href="javascript:void(0)" onclick="openMenu(event, 'Eat');" id="myLink">
-        <div class="w3-col s6 tablink">Members</div>
+        <div class="w3-col s6 tablink">Members</div> <br>
       </a>
+		<p>각 멤버의 이름을 누르면 개인페이지를 볼 수 있습니다.</p> <br>
       <!--
       <a href="javascript:void(0)" onclick="openMenu(event, 'Drinks');">
         <div class="w3-col s6 tablink">Drink</div>
       </a>
       -->
+
     </div>
 
     <div id="Eat" class="w3-container menu w3-padding-48 w3-card">
