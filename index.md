@@ -60,7 +60,7 @@ body, html {
     <span class="w3-tag">Enjoy your life with Contrabass</span>
   </div>
   <div class="w3-display-middle w3-center">
-    <span class="w3-text-white" style="font-size:30px">한국 아마추어 콘트라베이스 협회<br>
+    <span class="w3-text-white" style="font-size:30px">한국아마추어콘트라베이스협회<br>
     Korea Amateur Contrabass Association</span>
   </div>
   <div class="w3-display-bottomright w3-center w3-padding-large">
