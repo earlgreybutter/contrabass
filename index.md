@@ -12,8 +12,8 @@
 <title>AmaCB</title>
 
 
-<link rel="shortcut icon" href=".image/clef.ico" type="image/x-icon">
-<link rel="icon" href=".image/clef.ico" type="image/x-icon">
+<link rel="shortcut icon" href=".fabi/favicon.ico" type="image/x-icon">
+<link rel="icon" href=".fabi/favicon.ico" type="image/x-icon">
 
 <link rel="apple-touch-icon" sizes="57x57" href="./fabi/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="./fabi/apple-icon-60x60.png">
