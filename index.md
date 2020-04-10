@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,6 +10,10 @@
 	<meta name="Keywords" content="contrabass 콘트라베이스 더블베이스 한국아마추어콘트라베이스협회">
 	<meta name="Description" content="이 페이지는 한국아마추어콘트라베이스협회 홈페이지입니다. ">
 <title>AmaCB</title>
+
+
+<link rel="shortcut icon" href=".image/clef.ico" type="image/x-icon">
+<link rel="icon" href=".image/clef.ico" type="image/x-icon">
 
 <link rel="apple-touch-icon" sizes="57x57" href="./fabi/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="./fabi/apple-icon-60x60.png">
@@ -429,4 +433,3 @@ document.getElementById("myLink").click();
 
 </body>
 </html>
->>>>>>> dc198afa50dc01caeeb6ad688c36ef30d210ea18
