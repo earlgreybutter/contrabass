@@ -2,6 +2,10 @@
 <html>
 <head>
 <title>AmaCB</title>
+
+<link rel=" shortcut icon" href="./image/clef.ico">
+<link rel="icon" href="./image/clef.ico">
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="styler01.css">
@@ -50,7 +54,7 @@ body, html {
     <span class="w3-tag">Enjoy your life with Contrabass</span>
   </div>
   <div class="w3-display-middle w3-center">
-    <span class="w3-text-white" style="font-size:30px">한국아마추어콘트라베이스협회<br>
+    <span class="w3-text-white" style="font-size:30px">한국 아마추어 콘트라베이스 협회<br>
     Korea Amateur Contrabass Association</span>
   </div>
   <div class="w3-display-bottomright w3-center w3-padding-large">
@@ -85,13 +89,15 @@ body, html {
   
     <div class="w3-row w3-center w3-card w3-padding">
       <a href="javascript:void(0)" onclick="openMenu(event, 'Eat');" id="myLink">
-        <div class="w3-col s6 tablink">Members</div>
+        <div class="w3-col s6 tablink">Members</div> <br>
       </a>
+		<p>각 멤버의 이름을 누르면 개인페이지를 볼 수 있습니다.</p> <br>
       <!--
       <a href="javascript:void(0)" onclick="openMenu(event, 'Drinks');">
         <div class="w3-col s6 tablink">Drink</div>
       </a>
       -->
+
     </div>
 
     <div id="Eat" class="w3-container menu w3-padding-48 w3-card">
