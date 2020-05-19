@@ -128,7 +128,7 @@ body, html {
 
     <div id="Eat" class="w3-container menu w3-padding-48 w3-card">
       <h5><a href="https://earlgreybutter.github.io/" title="W3.CSS" target="_blank" class="w3-hover-text-green">earlgreybutter</a></h5>
-      <p class="w3-text-grey">이 페이지를 만든 애. 여기서 제일 귀여운 애.<br>백앤드 개발자로 취직하고 싶어여. 취직시켜주세여.</p><br>
+      <p class="w3-text-grey">이 페이지를 만든 애. 여기서 제일 귀여운 애.<br>졸업을 하고보니 취준생이 되었다.</p><br>
     
       <h5>ㅇㅈ</h5>
       <p class="w3-text-grey">이 페이지를 만들고 있는 사람이 한번도 뵙지 못해서 할말이 없습니다. </p><br>
